@@ -1,6 +1,6 @@
 ## Installation
 
-#Requires https://api.c99.nl/ key
+**Requires https://api.c99.nl/ key**
 
 ```console
 # clone the repo
