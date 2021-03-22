@@ -7,7 +7,7 @@
 $ git clone https://github.com/wtfchewy/jetlag-selfbot.git
 
 # change the working directory to Jetlag
-$ cd Astra
+$ cd Jetlag
 
 # install the requirements
 $ python -m pip install -r requirements.txt
